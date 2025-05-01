@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "minVersion": "1.0.0",
-  "latestBuildNumber": 1,
+  "latestBuildNumber": 2,
   "minBuildNumber": 1,
-  "forceUpdate": false,
-  "apkUrl": "https://github.com/abhijitpatle/snipearn-updates/releases/download/v1.0.0/app-release.apk",
+  "forceUpdate": true,
+  "apkUrl": "https://github.com/abhijitpatle/snipearn-updates/releases/download/v1.0.1/app-release.apk",
   "changelog": "- Bug fixes and improvements\n- Added new features\n- Performance improvements"
 } 
