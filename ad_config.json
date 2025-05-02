@@ -1,0 +1,45 @@
+{
+  "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
+  "bannerAds": {
+    "default": "ca-app-pub-3940256099942544/6300978111",
+    "homeScreen": "ca-app-pub-3940256099942544/6300978111",
+    "spinScreen": "ca-app-pub-3940256099942544/6300978111",
+    "scratchScreen": "ca-app-pub-3940256099942544/6300978111",
+    "cardSpinScreen": "ca-app-pub-3940256099942544/6300978111",
+    "tasksScreen": "ca-app-pub-3940256099942544/6300978111",
+    "walletScreen": "ca-app-pub-3940256099942544/6300978111",
+    "profileScreen": "ca-app-pub-3940256099942544/6300978111",
+    "referralScreen": "ca-app-pub-3940256099942544/6300978111"
+  },
+  "rewardedAds": {
+    "default": "ca-app-pub-3940256099942544/5224354917",
+    "wheel1Spin": "ca-app-pub-3940256099942544/5224354917",
+    "wheel2Spin": "ca-app-pub-3940256099942544/5224354917",
+    "wheel3Spin": "ca-app-pub-3940256099942544/5224354917",
+    "wheel4Spin": "ca-app-pub-3940256099942544/5224354917",
+    "wheel5Spin": "ca-app-pub-3940256099942544/5224354917",
+    "card1Flip": "ca-app-pub-3940256099942544/5224354917",
+    "card2Flip": "ca-app-pub-3940256099942544/5224354917",
+    "card3Flip": "ca-app-pub-3940256099942544/5224354917",
+    "card4Flip": "ca-app-pub-3940256099942544/5224354917",
+    "card5Flip": "ca-app-pub-3940256099942544/5224354917",
+    "video1Reward": "ca-app-pub-3940256099942544/5224354917",
+    "video2Reward": "ca-app-pub-3940256099942544/5224354917",
+    "video3Reward": "ca-app-pub-3940256099942544/5224354917",
+    "dailyReward": "ca-app-pub-3940256099942544/5224354917",
+    "scratch1": "ca-app-pub-3940256099942544/5224354917",
+    "scratch2": "ca-app-pub-3940256099942544/5224354917",
+    "scratch3": "ca-app-pub-3940256099942544/5224354917",
+    "scratch4": "ca-app-pub-3940256099942544/5224354917",
+    "scratch5": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "interstitialAds": {
+    "default": "ca-app-pub-3940256099942544/1033173712",
+    "homeToSpin": "ca-app-pub-3940256099942544/1033173712",
+    "spinToScratch": "ca-app-pub-3940256099942544/1033173712",
+    "scratchToCard": "ca-app-pub-3940256099942544/1033173712",
+    "cardToTasks": "ca-app-pub-3940256099942544/1033173712",
+    "tasksToWallet": "ca-app-pub-3940256099942544/1033173712",
+    "walletToProfile": "ca-app-pub-3940256099942544/1033173712"
+  }
+} 
