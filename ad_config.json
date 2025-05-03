@@ -1,7 +1,6 @@
 {
   "adMobAppId": "ca-app-pub-3940256099942544~3347511713",
   "bannerAds": {
-    "default": "ca-app-pub-3940256099942544/6300978111",
     "homeScreen": "ca-app-pub-3940256099942544/6300978111",
     "spinScreen": "ca-app-pub-3940256099942544/6300978111",
     "scratchScreen": "ca-app-pub-3940256099942544/6300978111",
