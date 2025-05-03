@@ -11,7 +11,6 @@
     "referralScreen": "ca-app-pub-3940256099942544/6300978111"
   },
   "rewardedAds": {
-    "default": "ca-app-pub-3940256099942544/5224354917",
     "wheel1Spin": "ca-app-pub-3940256099942544/5224354917",
     "wheel2Spin": "ca-app-pub-3940256099942544/5224354917",
     "wheel3Spin": "ca-app-pub-3940256099942544/5224354917",
@@ -33,7 +32,6 @@
     "scratch5": "ca-app-pub-3940256099942544/5224354917"
   },
   "interstitialAds": {
-    "default": "ca-app-pub-3940256099942544/1033173712",
     "homeToSpin": "ca-app-pub-3940256099942544/1033173712",
     "spinToScratch": "ca-app-pub-3940256099942544/1033173712",
     "scratchToCard": "ca-app-pub-3940256099942544/1033173712",
