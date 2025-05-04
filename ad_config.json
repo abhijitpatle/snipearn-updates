@@ -1,5 +1,6 @@
 {
   "adMobAppId": "ca-app-pub-8555619890323819~1672730195",
+  "unityGameId": "5847209",
   "bannerAds": {
     "homeScreen": "ca-app-pub-8555619890323819/2617004562",
     "spinScreen": "ca-app-pub-8555619890323819/5421237664",
@@ -38,5 +39,46 @@
     "cardToTasks": "ca-app-pub-8555619890323819/9404955952",
     "tasksToWallet": "ca-app-pub-8555619890323819/2511169144",
     "walletToProfile": "ca-app-pub-8555619890323819/8091874287"
+  },
+  "unityAds": {
+    "bannerPlacements": {
+      "homeScreen": "Banner_Android",
+      "spinScreen": "Banner_Android",
+      "scratchScreen": "Banner_Android",
+      "cardSpinScreen": "Banner_Android",
+      "tasksScreen": "Banner_Android",
+      "walletScreen": "Banner_Android",
+      "profileScreen": "Banner_Android",
+      "referralScreen": "Banner_Android"
+    },
+    "rewardedPlacements": {
+      "wheel1Spin": "Rewarded_Android",
+      "wheel2Spin": "Rewarded_Android",
+      "wheel3Spin": "Rewarded_Android",
+      "wheel4Spin": "Rewarded_Android",
+      "wheel5Spin": "Rewarded_Android",
+      "card1Flip": "Rewarded_Android",
+      "card2Flip": "Rewarded_Android",
+      "card3Flip": "Rewarded_Android",
+      "card4Flip": "Rewarded_Android",
+      "card5Flip": "Rewarded_Android",
+      "video1Reward": "Rewarded_Android",
+      "video2Reward": "Rewarded_Android",
+      "video3Reward": "Rewarded_Android",
+      "dailyReward": "Rewarded_Android",
+      "scratch1": "Rewarded_Android",
+      "scratch2": "Rewarded_Android",
+      "scratch3": "Rewarded_Android",
+      "scratch4": "Rewarded_Android",
+      "scratch5": "Rewarded_Android"
+    },
+    "interstitialPlacements": {
+      "homeToSpin": "Interstitial_Android",
+      "spinToScratch": "Interstitial_Android",
+      "scratchToCard": "Interstitial_Android",
+      "cardToTasks": "Interstitial_Android",
+      "tasksToWallet": "Interstitial_Android",
+      "walletToProfile": "Interstitial_Android"
+    }
   }
 } 
