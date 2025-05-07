@@ -12,11 +12,6 @@
     "referralScreen": "ca-app-pub-8555619890323819/8990841226"
   },
   "rewardedAds": {
-    "wheel1Spin": "ca-app-pub-8555619890323819/8889116483",
-    "wheel2Spin": "ca-app-pub-8555619890323819/4128578549",
-    "wheel3Spin": "ca-app-pub-8555619890323819/5441660218",
-    "wheel4Spin": "ca-app-pub-8555619890323819/9168910982",
-    "wheel5Spin": "ca-app-pub-8555619890323819/9187116493",
     "card1Flip": "ca-app-pub-8555619890323819/4152629276",
     "card2Flip": "ca-app-pub-8555619890323819/3571069560",
     "card3Flip": "ca-app-pub-8555619890323819/8071445560",
@@ -30,7 +25,12 @@
     "scratch2": "ca-app-pub-8555619890323819/2501771727",
     "scratch3": "ca-app-pub-8555619890323819/7816009281",
     "scratch4": "ca-app-pub-8555619890323819/2627547194",
-    "scratch5": "ca-app-pub-8555619890323819/1314465520"
+    "scratch5": "ca-app-pub-8555619890323819/1314465520",
+    "wheel1Spin": "ca-app-pub-8555619890323819/8889116483",
+    "wheel2Spin": "ca-app-pub-8555619890323819/4128578549",
+    "wheel3Spin": "ca-app-pub-8555619890323819/5441660218",
+    "wheel4Spin": "ca-app-pub-8555619890323819/9168910982",
+    "wheel5Spin": "ca-app-pub-8555619890323819/9187116493"
   },
   "interstitialAds": {
     "homeToSpin": "ca-app-pub-8555619890323819/2350245402",
@@ -39,8 +39,7 @@
     "cardToTasks": "ca-app-pub-8555619890323819/9404955952",
     "tasksToWallet": "ca-app-pub-8555619890323819/2511169144",
     "walletToProfile": "ca-app-pub-8555619890323819/8091874287",
-    "homeToCard": "ca-app-pub-8555619890323819/9202594217",
-    "spinToCard": "ca-app-pub-8555619890323819/9202594217"
+    "homeToCard": "ca-app-pub-8555619890323819/9202594217"
   },
   "unityAds": {
     "bannerPlacements": {
