@@ -38,7 +38,9 @@
     "scratchToCard": "ca-app-pub-8555619890323819/9202594217",
     "cardToTasks": "ca-app-pub-8555619890323819/9404955952",
     "tasksToWallet": "ca-app-pub-8555619890323819/2511169144",
-    "walletToProfile": "ca-app-pub-8555619890323819/8091874287"
+    "walletToProfile": "ca-app-pub-8555619890323819/8091874287",
+    "homeToCard": "ca-app-pub-8555619890323819/9202594217",
+    "spinToCard": "ca-app-pub-8555619890323819/9202594217"
   },
   "unityAds": {
     "bannerPlacements": {
@@ -78,7 +80,8 @@
       "scratchToCard": "Interstitial_Android",
       "cardToTasks": "Interstitial_Android",
       "tasksToWallet": "Interstitial_Android",
-      "walletToProfile": "Interstitial_Android"
+      "walletToProfile": "Interstitial_Android",
+      "homeToCard": "Interstitial_Android"
     }
   }
 } 
